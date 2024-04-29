@@ -1,2 +1,2 @@
-# Clinic-Management-
-Project with C 
+# Clinical-Management
+### My project with C 
